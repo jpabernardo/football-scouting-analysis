@@ -9,6 +9,3 @@ This project applies data analysis techniques to sports performance, specificall
 * **Player Profiling:** Evaluated individual player metrics (technical, tactical, and physical) to assess market value and squad fit.
 * **Comparative Analysis:** Benchmarked potential targets against current squad performance standards.
 * **Visual Reporting:** Presented complex performance data in a clear, actionable format for coaching and management staff.
-
-## Documents
-* [Read the Scouting Report](Bnefica_Scouting.pdf)
