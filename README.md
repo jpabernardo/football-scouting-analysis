@@ -113,8 +113,6 @@ Each candidate has a dedicated slide with **strengths and weaknesses** that put 
 
 ---
 
-```
-
 ## Author
 
 **João**, Data professional · MSc Data Science & Advanced Analytics (NOVA IMS)
