@@ -86,7 +86,7 @@ Each candidate has a dedicated slide with **strengths and weaknesses** that put 
 - **Time window:** player metrics cover the **last 365 days** before the snapshot date.
 - **Percentile pool:** players compared across **14 selected leagues**, including the top 10 European leagues.
 - **Normalisation:** player metrics are per 90 minutes.
-- **Market values:** <!-- add source, e.g. Transfermarkt, and date -->
+- **Market values:** Transfermarket - Jan 2026
 - **Team-level data:** Liga Portugal 2025/26, matchdays 1–17.
 
 ## Tools
